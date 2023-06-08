@@ -7,7 +7,7 @@ import path from "path";
 export default function Index(props: {
   candidates: any[];
 }) {
-  console.log(props.candidates);
+
   const [searchTerm, setSearchTerm] = useState("");
   const searcher = new FuzzySearch(props.candidates, [
     "politicianName",
@@ -102,7 +102,7 @@ export async function getServerSideProps() {
 
   const getResults = () => {
     return new Promise((resolve, reject) => {
-      resultsDB.find({}, (err, docs) => {
+      resultsDB.find({}, (err: any, docs: any[]) => {
         if (err) {
           reject(err);
         }
