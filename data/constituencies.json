@@ -1,0 +1,898 @@
+[
+  {
+    "number": "34",
+    "name": "Afzalpur-34"
+  },
+  {
+    "number": "46",
+    "name": "Aland-46"
+  },
+  {
+    "number": "177",
+    "name": "Anekal-177"
+  },
+  {
+    "number": "8",
+    "name": "Arabhavi-8"
+  },
+  {
+    "number": "198",
+    "name": "Arkalgud-198"
+  },
+  {
+    "number": "194",
+    "name": "Arsikere-194"
+  },
+  {
+    "number": "3",
+    "name": "Athani-3"
+  },
+  {
+    "number": "52",
+    "name": "Aurad-52"
+  },
+  {
+    "number": "172",
+    "name": "B.T.M Layout-172"
+  },
+  {
+    "number": "29",
+    "name": "Babaleshwar-29"
+  },
+  {
+    "number": "23",
+    "name": "Badami-23"
+  },
+  {
+    "number": "24",
+    "name": "Bagalkot-24"
+  },
+  {
+    "number": "140",
+    "name": "Bagepalli-140"
+  },
+  {
+    "number": "16",
+    "name": "Bailhongal-16"
+  },
+  {
+    "number": "176",
+    "name": "Bangalore South-176"
+  },
+  {
+    "number": "147",
+    "name": "Bangarapet-147"
+  },
+  {
+    "number": "205",
+    "name": "Bantval-205"
+  },
+  {
+    "number": "47",
+    "name": "Basavakalyan-47"
+  },
+  {
+    "number": "28",
+    "name": "Basavana Bagevadi-28"
+  },
+  {
+    "number": "170",
+    "name": "Basavanagudi-170"
+  },
+  {
+    "number": "12",
+    "name": "Belgaum Dakshin-12"
+  },
+  {
+    "number": "13",
+    "name": "Belgaum Rural-13"
+  },
+  {
+    "number": "11",
+    "name": "Belgaum Uttar-11"
+  },
+  {
+    "number": "93",
+    "name": "Bellary-93"
+  },
+  {
+    "number": "94",
+    "name": "Bellary City-94"
+  },
+  {
+    "number": "200",
+    "name": "Belthangady-200"
+  },
+  {
+    "number": "195",
+    "name": "Belur-195"
+  },
+  {
+    "number": "112",
+    "name": "Bhadravati-112"
+  },
+  {
+    "number": "51",
+    "name": "Bhalki-51"
+  },
+  {
+    "number": "79",
+    "name": "Bhatkal-79"
+  },
+  {
+    "number": "50",
+    "name": "Bidar-50"
+  },
+  {
+    "number": "49",
+    "name": "Bidar South-49"
+  },
+  {
+    "number": "30",
+    "name": "Bijapur City-30"
+  },
+  {
+    "number": "22",
+    "name": "Bilgi-22"
+  },
+  {
+    "number": "175",
+    "name": "Bommanahalli-175"
+  },
+  {
+    "number": "85",
+    "name": "Byadgi-85"
+  },
+  {
+    "number": "152",
+    "name": "Byatarayanapura-152"
+  },
+  {
+    "number": "118",
+    "name": "Byndoor-118"
+  },
+  {
+    "number": "161",
+    "name": "C.V. Raman Nagar-161"
+  },
+  {
+    "number": "98",
+    "name": "Challakere-98"
+  },
+  {
+    "number": "217",
+    "name": "Chamaraja-217"
+  },
+  {
+    "number": "223",
+    "name": "Chamarajanagar-223"
+  },
+  {
+    "number": "168",
+    "name": "Chamrajpet-168"
+  },
+  {
+    "number": "215",
+    "name": "Chamundeshwari-215"
+  },
+  {
+    "number": "109",
+    "name": "Channagiri-109"
+  },
+  {
+    "number": "185",
+    "name": "Channapatna-185"
+  },
+  {
+    "number": "169",
+    "name": "Chickpet-169"
+  },
+  {
+    "number": "141",
+    "name": "Chikkaballapur-141"
+  },
+  {
+    "number": "128",
+    "name": "Chikkanayakanahalli-128"
+  },
+  {
+    "number": "2",
+    "name": "Chikkodi-Sadalga-2"
+  },
+  {
+    "number": "125",
+    "name": "Chikmagalur-125"
+  },
+  {
+    "number": "42",
+    "name": "Chincholi-42"
+  },
+  {
+    "number": "143",
+    "name": "Chintamani-143"
+  },
+  {
+    "number": "99",
+    "name": "Chitradurga-99"
+  },
+  {
+    "number": "40",
+    "name": "Chittapur-40"
+  },
+  {
+    "number": "155",
+    "name": "Dasarahalli-155"
+  },
+  {
+    "number": "106",
+    "name": "Davanagere North-106"
+  },
+  {
+    "number": "107",
+    "name": "Davanagere South-107"
+  },
+  {
+    "number": "56",
+    "name": "Devadurga-56"
+  },
+  {
+    "number": "179",
+    "name": "Devanahalli-179"
+  },
+  {
+    "number": "27",
+    "name": "Devar Hippargi-27"
+  },
+  {
+    "number": "71",
+    "name": "Dharwad-71"
+  },
+  {
+    "number": "180",
+    "name": "Doddaballapur-180"
+  },
+  {
+    "number": "66",
+    "name": "Gadag-66"
+  },
+  {
+    "number": "164",
+    "name": "Gandhi Nagar-164"
+  },
+  {
+    "number": "62",
+    "name": "Gangawati-62"
+  },
+  {
+    "number": "139",
+    "name": "Gauribidanur-139"
+  },
+  {
+    "number": "9",
+    "name": "Gokak-9"
+  },
+  {
+    "number": "166",
+    "name": "Govindraj Nagar-166"
+  },
+  {
+    "number": "135",
+    "name": "Gubbi-135"
+  },
+  {
+    "number": "44",
+    "name": "Gulbarga Dakshin-44"
+  },
+  {
+    "number": "43",
+    "name": "Gulbarga Rural-43"
+  },
+  {
+    "number": "45",
+    "name": "Gulbarga Uttar-45"
+  },
+  {
+    "number": "224",
+    "name": "Gundlupet-224"
+  },
+  {
+    "number": "39",
+    "name": "Gurmitkal-39"
+  },
+  {
+    "number": "88",
+    "name": "Hadagalli-88"
+  },
+  {
+    "number": "89",
+    "name": "Hagaribommanahalli-89"
+  },
+  {
+    "number": "76",
+    "name": "Haliyal-76"
+  },
+  {
+    "number": "82",
+    "name": "Hangal-82"
+  },
+  {
+    "number": "221",
+    "name": "Hanur-221"
+  },
+  {
+    "number": "104",
+    "name": "Harapanahalli-104"
+  },
+  {
+    "number": "105",
+    "name": "Harihar-105"
+  },
+  {
+    "number": "196",
+    "name": "Hassan-196"
+  },
+  {
+    "number": "84",
+    "name": "Haveri-84"
+  },
+  {
+    "number": "158",
+    "name": "Hebbal-158"
+  },
+  {
+    "number": "213",
+    "name": "Heggadadevankote-213"
+  },
+  {
+    "number": "86",
+    "name": "Hirekerur-86"
+  },
+  {
+    "number": "100",
+    "name": "Hiriyur-100"
+  },
+  {
+    "number": "102",
+    "name": "Holalkere-102"
+  },
+  {
+    "number": "197",
+    "name": "Holenarasipur-197"
+  },
+  {
+    "number": "48",
+    "name": "Homnabad-48"
+  },
+  {
+    "number": "110",
+    "name": "Honnali-110"
+  },
+  {
+    "number": "101",
+    "name": "Hosadurga-101"
+  },
+  {
+    "number": "178",
+    "name": "Hosakote-178"
+  },
+  {
+    "number": "73",
+    "name": "Hubli-Dharwad-Central-73"
+  },
+  {
+    "number": "72",
+    "name": "Hubli-Dharwad-East-72"
+  },
+  {
+    "number": "74",
+    "name": "Hubli-Dharwad-West-74"
+  },
+  {
+    "number": "7",
+    "name": "Hukkeri-7"
+  },
+  {
+    "number": "25",
+    "name": "Hungund-25"
+  },
+  {
+    "number": "212",
+    "name": "Hunsur-212"
+  },
+  {
+    "number": "32",
+    "name": "Indi-32"
+  },
+  {
+    "number": "103",
+    "name": "Jagalur-103"
+  },
+  {
+    "number": "21",
+    "name": "Jamkhandi-21"
+  },
+  {
+    "number": "173",
+    "name": "Jayanagar-173"
+  },
+  {
+    "number": "35",
+    "name": "Jewargi-35"
+  },
+  {
+    "number": "151",
+    "name": "K.R. Pura-151"
+  },
+  {
+    "number": "127",
+    "name": "Kadur-127"
+  },
+  {
+    "number": "4",
+    "name": "Kagwad-4"
+  },
+  {
+    "number": "75",
+    "name": "Kalghatgi-75"
+  },
+  {
+    "number": "91",
+    "name": "Kampli-91"
+  },
+  {
+    "number": "61",
+    "name": "Kanakagiri-61"
+  },
+  {
+    "number": "184",
+    "name": "Kanakapura-184"
+  },
+  {
+    "number": "121",
+    "name": "Kapu-121"
+  },
+  {
+    "number": "122",
+    "name": "Karkal-122"
+  },
+  {
+    "number": "77",
+    "name": "Karwar-77"
+  },
+  {
+    "number": "14",
+    "name": "Khanapur-14"
+  },
+  {
+    "number": "15",
+    "name": "Kittur-15"
+  },
+  {
+    "number": "148",
+    "name": "Kolar-148"
+  },
+  {
+    "number": "146",
+    "name": "Kolar Gold Field-146"
+  },
+  {
+    "number": "222",
+    "name": "Kollegal-222"
+  },
+  {
+    "number": "64",
+    "name": "Koppal-64"
+  },
+  {
+    "number": "134",
+    "name": "Koratagere-134"
+  },
+  {
+    "number": "216",
+    "name": "Krishnaraja-216"
+  },
+  {
+    "number": "211",
+    "name": "Krishnarajanagara-211"
+  },
+  {
+    "number": "192",
+    "name": "Krishnarajpet-192"
+  },
+  {
+    "number": "5",
+    "name": "Kudachi-5"
+  },
+  {
+    "number": "96",
+    "name": "Kudligi-96"
+  },
+  {
+    "number": "78",
+    "name": "Kumta-78"
+  },
+  {
+    "number": "119",
+    "name": "Kundapura-119"
+  },
+  {
+    "number": "70",
+    "name": "Kundgol-70"
+  },
+  {
+    "number": "131",
+    "name": "Kunigal-131"
+  },
+  {
+    "number": "60",
+    "name": "Kushtagi-60"
+  },
+  {
+    "number": "57",
+    "name": "Lingsugur-57"
+  },
+  {
+    "number": "187",
+    "name": "Maddur-187"
+  },
+  {
+    "number": "138",
+    "name": "Madhugiri-138"
+  },
+  {
+    "number": "208",
+    "name": "Madikeri-208"
+  },
+  {
+    "number": "182",
+    "name": "Magadi-182"
+  },
+  {
+    "number": "174",
+    "name": "Mahadevapura-174"
+  },
+  {
+    "number": "156",
+    "name": "Mahalakshmi Layout-156"
+  },
+  {
+    "number": "186",
+    "name": "Malavalli-186"
+  },
+  {
+    "number": "157",
+    "name": "Malleshwaram-157"
+  },
+  {
+    "number": "149",
+    "name": "Malur-149"
+  },
+  {
+    "number": "189",
+    "name": "Mandya-189"
+  },
+  {
+    "number": "204",
+    "name": "Mangalore-204"
+  },
+  {
+    "number": "202",
+    "name": "Mangalore City North-202"
+  },
+  {
+    "number": "203",
+    "name": "Mangalore City South-203"
+  },
+  {
+    "number": "55",
+    "name": "Manvi-55"
+  },
+  {
+    "number": "59",
+    "name": "Maski-59"
+  },
+  {
+    "number": "108",
+    "name": "Mayakonda-108"
+  },
+  {
+    "number": "188",
+    "name": "Melukote-188"
+  },
+  {
+    "number": "97",
+    "name": "Molakalmuru-97"
+  },
+  {
+    "number": "201",
+    "name": "Moodabidri-201"
+  },
+  {
+    "number": "26",
+    "name": "Muddebihal-26"
+  },
+  {
+    "number": "19",
+    "name": "Mudhol-19"
+  },
+  {
+    "number": "124",
+    "name": "Mudigere-124"
+  },
+  {
+    "number": "145",
+    "name": "Mulbagal-145"
+  },
+  {
+    "number": "191",
+    "name": "Nagamangala-191"
+  },
+  {
+    "number": "31",
+    "name": "Nagthan-31"
+  },
+  {
+    "number": "214",
+    "name": "Nanjangud-214"
+  },
+  {
+    "number": "218",
+    "name": "Narasimharaja-218"
+  },
+  {
+    "number": "68",
+    "name": "Nargund-68"
+  },
+  {
+    "number": "69",
+    "name": "Navalgund-69"
+  },
+  {
+    "number": "181",
+    "name": "Nelamangala-181"
+  },
+  {
+    "number": "1",
+    "name": "Nippani-1"
+  },
+  {
+    "number": "171",
+    "name": "Padmanaba Nagar-171"
+  },
+  {
+    "number": "137",
+    "name": "Pavagada-137"
+  },
+  {
+    "number": "210",
+    "name": "Piriyapatna-210"
+  },
+  {
+    "number": "159",
+    "name": "Pulakeshinagar-159"
+  },
+  {
+    "number": "206",
+    "name": "Puttur-206"
+  },
+  {
+    "number": "54",
+    "name": "Raichur-54"
+  },
+  {
+    "number": "53",
+    "name": "Raichur Rural-53"
+  },
+  {
+    "number": "165",
+    "name": "Rajaji Nagar-165"
+  },
+  {
+    "number": "154",
+    "name": "Rajarajeshwarinagar-154"
+  },
+  {
+    "number": "183",
+    "name": "Ramanagaram-183"
+  },
+  {
+    "number": "18",
+    "name": "Ramdurg-18"
+  },
+  {
+    "number": "87",
+    "name": "Ranibennur-87"
+  },
+  {
+    "number": "6",
+    "name": "Raybag-6"
+  },
+  {
+    "number": "67",
+    "name": "Ron-67"
+  },
+  {
+    "number": "117",
+    "name": "Sagar-117"
+  },
+  {
+    "number": "199",
+    "name": "Sakleshpur-199"
+  },
+  {
+    "number": "95",
+    "name": "Sandur-95"
+  },
+  {
+    "number": "160",
+    "name": "Sarvagnanagar-160"
+  },
+  {
+    "number": "17",
+    "name": "Saundatti Yellamma-17"
+  },
+  {
+    "number": "41",
+    "name": "Sedam-41"
+  },
+  {
+    "number": "37",
+    "name": "Shahapur-37"
+  },
+  {
+    "number": "163",
+    "name": "Shanti Nagar-163"
+  },
+  {
+    "number": "83",
+    "name": "Shiggaon-83"
+  },
+  {
+    "number": "115",
+    "name": "Shikaripura-115"
+  },
+  {
+    "number": "113",
+    "name": "Shimoga-113"
+  },
+  {
+    "number": "111",
+    "name": "Shimoga Rural-111"
+  },
+  {
+    "number": "65",
+    "name": "Shirahatti-65"
+  },
+  {
+    "number": "162",
+    "name": "Shivajinagar-162"
+  },
+  {
+    "number": "36",
+    "name": "Shorapur-36"
+  },
+  {
+    "number": "193",
+    "name": "Shravanabelagola-193"
+  },
+  {
+    "number": "142",
+    "name": "Sidlaghatta-142"
+  },
+  {
+    "number": "33",
+    "name": "Sindgi-33"
+  },
+  {
+    "number": "58",
+    "name": "Sindhanur-58"
+  },
+  {
+    "number": "136",
+    "name": "Sira-136"
+  },
+  {
+    "number": "80",
+    "name": "Sirsi-80"
+  },
+  {
+    "number": "92",
+    "name": "Siruguppa-92"
+  },
+  {
+    "number": "116",
+    "name": "Sorab-116"
+  },
+  {
+    "number": "123",
+    "name": "Sringeri-123"
+  },
+  {
+    "number": "144",
+    "name": "Srinivaspur-144"
+  },
+  {
+    "number": "190",
+    "name": "Srirangapatna-190"
+  },
+  {
+    "number": "207",
+    "name": "Sullia-207"
+  },
+  {
+    "number": "220",
+    "name": "T.Narasipur-220"
+  },
+  {
+    "number": "126",
+    "name": "Tarikere-126"
+  },
+  {
+    "number": "20",
+    "name": "Terdal-20"
+  },
+  {
+    "number": "129",
+    "name": "Tiptur-129"
+  },
+  {
+    "number": "114",
+    "name": "Tirthahalli-114"
+  },
+  {
+    "number": "132",
+    "name": "Tumkur City-132"
+  },
+  {
+    "number": "133",
+    "name": "Tumkur Rural-133"
+  },
+  {
+    "number": "130",
+    "name": "Turuvekere-130"
+  },
+  {
+    "number": "120",
+    "name": "Udupi-120"
+  },
+  {
+    "number": "219",
+    "name": "Varuna-219"
+  },
+  {
+    "number": "167",
+    "name": "Vijay Nagar-167"
+  },
+  {
+    "number": "90",
+    "name": "Vijayanagara-90"
+  },
+  {
+    "number": "209",
+    "name": "Virajpet-209"
+  },
+  {
+    "number": "38",
+    "name": "Yadgir-38"
+  },
+  {
+    "number": "150",
+    "name": "Yelahanka-150"
+  },
+  {
+    "number": "63",
+    "name": "Yelburga-63"
+  },
+  {
+    "number": "81",
+    "name": "Yellapur-81"
+  },
+  {
+    "number": "10",
+    "name": "Yemkanmardi-10"
+  },
+  {
+    "number": "153",
+    "name": "Yeshvanthapura-153"
+  }
+]
