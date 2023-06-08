@@ -96,7 +96,7 @@ export default function Index(props: {
 // GetSeverSideProps
 export async function getServerSideProps() {
   const resultsDB = new Datastore({
-    filename: path.join(process.cwd(), 'data/winners.db'),
+    filename: 'public/winners.db',
     autoload: true,
   });
 
