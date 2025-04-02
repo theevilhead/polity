@@ -1,14 +1,13 @@
-import React, { useState } from "react";
 import SearchResults from "@/components/SearchResults";
-import Datastore from "nedb";
 import FuzzySearch from "fuzzy-search";
-import path from "path";
+import Datastore from "nedb";
+import { useState } from "react";
 
 export default function Index(props: {
   candidates: any[];
 }) {
-
   const [searchTerm, setSearchTerm] = useState("");
+
   const searcher = new FuzzySearch(props.candidates, [
     "politicianName",
     "constituencyName",
@@ -20,6 +19,9 @@ export default function Index(props: {
   return (
     <div>
       <div className="h-96 flex flex-col justify-center items-center flex-wrap">
+        <h1 className="mb-10 text-2xl font-bold">
+          General election 2023 - Constituency results
+        </h1>
         <div className="relative max-w-lg mx-auto w-full">
           <label
             htmlFor="name"
@@ -96,7 +98,7 @@ export default function Index(props: {
 // GetSeverSideProps
 export async function getServerSideProps() {
   const resultsDB = new Datastore({
-    filename: 'public/winners.db',
+    filename: "public/winners.db",
     autoload: true,
   });
 
